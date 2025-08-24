@@ -37,3 +37,12 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/material_theme_project_new.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/my-first-app.iml
+/.idea/PMDPlugin.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
